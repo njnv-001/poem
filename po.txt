@@ -1,4 +1,2 @@
-first line end
-second line end
-third line end
+nothing is left
 
